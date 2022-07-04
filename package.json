@@ -2,6 +2,7 @@
   "name": "cometa",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://quickyverstalshik.github.io/Cometa/",
   "dependencies": {
     "@craco/craco": "^6.4.3",
     "@emotion/react": "^11.9.3",
